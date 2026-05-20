@@ -1,8 +1,8 @@
 # Visitor Monitoring Application
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python](https://img.shields.io/badge/Python-45%25-blue.svg)](https://www.python.org/)
-[![HTML](https://img.shields.io/badge/HTML-55%25-orange.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![Python](https://img.shields.io/badge/Python-80%25-blue.svg)](https://www.python.org/)
+[![HTML](https://img.shields.io/badge/HTML-20%25-orange.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![Repository](https://img.shields.io/badge/GitHub-AndreiVLotivio%2FVisitor--Monitoring--Application-black.svg)](https://github.com/AndreiVLotivio/Visitor-Monitoring-Application)
 
 ## License
@@ -65,13 +65,13 @@ The system enables organizations to:
 ## 🛠️ Technology Stack
 
 ### Backend
-- **Python** (45% of codebase)
+- **Python**
   - Web framework for API development
   - Database operations and business logic
   - Data processing and analytics
 
 ### Frontend
-- **HTML** (55% of codebase)
+- **HTML**
   - User interface and templates
   - Responsive web design
   - Data visualization
